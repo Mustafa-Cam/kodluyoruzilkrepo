@@ -1,6 +1,8 @@
 # Kodluyoruz Ilk Repo
 Bu repo [Kodluyoruz](https://app.patika.dev/courses/git/odev1) Back-end eğitiminde oluşturduğummuz ilk repo içerisinde bir adet README:md dosyası bir adet index.html barındırıyor
 
+![](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
+
 ## Installation 
 ---
 Öncelikle projeyi klonlayın (Sizin reponuzdan aldığınız link gelecek)
